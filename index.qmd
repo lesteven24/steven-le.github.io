@@ -2,6 +2,4 @@
 title: "Steven Le"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello!  My name is Steven Le and I am a third-year undergraduate student majoring in environmental studies and minoring in earth science.

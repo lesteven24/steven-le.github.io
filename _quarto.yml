@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - resume.qmd
+      - f1-racetracks.qmd
 
 format:
   html:
@@ -17,6 +20,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
